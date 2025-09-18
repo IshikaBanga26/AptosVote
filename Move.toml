@@ -1,0 +1,17 @@
+[package]
+name = "learn-aptos"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x8f48f5301bb03d8695e4ab0161dc653a04b1cbada07b681b4c10575700aa75d5"
+
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
