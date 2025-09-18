@@ -71,8 +71,10 @@ We aim to empower communities, DAOs, corporations, and social organizations to m
 - **Framework**: Aptos Framework
 
 
-## 📄 License
-This project is licensed under the MIT License.
+## Transaction Hash: 0xa7a86eb0bbabd55e1165b34ff0ec0853f61505122773c772c962f6d5cd5dd2f4
+
+<img width="1899" height="947" alt="image" src="https://github.com/user-attachments/assets/f6936778-f860-47e4-a52f-c7d6c683f8d8" />
+
 
 ---
 
